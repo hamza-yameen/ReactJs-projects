@@ -6,10 +6,11 @@ This repository contains various projects ranging from basic to advanced levels,
 
 ## Project List
 
-| Project Name  | Linke                                          |
-| ------------- | ---------------------------------------------- |
-| accordion-app | https://accordion-react-js-project.vercel.app/ |
-| menu          |                                                |
+| Project Name    | Links                                          |
+| --------------- | ---------------------------------------------- |
+| accordion-app   | https://accordion-react-js-project.vercel.app/ |
+| menu            | https://menu-react-js-project.vercel.app/      |
+| Unsplash Images |                                                |
 
 ## Learn More & Contact Me
 
