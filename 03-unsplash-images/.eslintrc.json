@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "react-app",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:tailwindcss/recommended"
+  ],
+  "plugins": ["react-hooks", "tailwindcss", "prettier"],
+  "rules": {
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "react/no-did-mount-set-state": "error",
+    "react/prefer-stateless-function": "warn",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "prettier/prettier": ["error", { "useTabs": false, "tabWidth": 2 }],
+    "react/react-in-jsx-scope": "off",
+    "tailwindcss/no-custom-classname": "off",
+    "react/prop-types": "off"
+  }
+}
