@@ -6,9 +6,9 @@ This is a small app called Food Cart, designed to help you learn the basics of m
 
 ## What you'll learn from this project:
 
-How to use useContext in larger applications
-Implementing modal popups in React.js
-Structuring components effectively
+- How to use useContext in larger applications
+- Implementing modal popups in React.js
+- Structuring components effectively
 
 ## Learn More & Contact Me
 
