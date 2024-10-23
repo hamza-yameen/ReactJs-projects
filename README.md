@@ -14,7 +14,7 @@ This repository contains various projects ranging from basic to advanced levels,
 | menu            | https://menu-react-js-project.vercel.app/      |
 | Unsplash Images | Unreleased                                     |
 | Food Cart       | https://food-cart-tan.vercel.app/              |
-|                 |                                                |
+| Beach Resort    | https://react-beach-resort-pro.netlify.app/    |
 
 ## Learn More & Contact Me
 
